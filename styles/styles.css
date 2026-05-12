@@ -543,7 +543,7 @@ h4 {
 @media (max-width: 767px) {
   .hero__button {
     width: 100%;
-    min-width: 390px;
+    max-width: 390px;
     margin-inline: auto;
   }
 }

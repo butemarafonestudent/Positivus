@@ -48,7 +48,7 @@
     &__button {
         @include mobile {
             width: 100%;
-            min-width: 390px;
+            max-width: 390px;
             margin-inline:  auto;
         }
     }
